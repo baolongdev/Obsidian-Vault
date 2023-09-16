@@ -16,21 +16,8 @@
                 "file": "project/Scanner3D/image.jpg"
               }
             }
-          },
-          {
-            "id": "7b8efd79c85032bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "project/Scanner3D/image.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "project/Scanner3D/image.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "project/Scanner3D/image.jpg"
               }
             }
           },
@@ -177,13 +164,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-projects:Open projects": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7b8efd79c85032bf",
+  "active": "b9afa8199e0d9619",
   "lastOpenFiles": [
-    "project/Scanner3D/image.jpg",
     "test.md",
+    "home.md",
+    "project/Scanner3D/image.jpg",
     "project/Scanner3D/info.md",
     "Excalidraw/Drawing 2023-09-16 14.11.50.excalidraw.md",
     "Excalidraw/Drawing 2023-09-16 20.41.13.excalidraw.md",

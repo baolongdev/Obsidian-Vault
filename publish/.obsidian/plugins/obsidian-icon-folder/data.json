@@ -1,0 +1,31 @@
+{
+  "settings": {
+    "migrated": 2,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "TiTemplate",
+      "Ti3dCubeSphere",
+      "RiCompassesLine",
+      "TiBook",
+      "TiNote"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  },
+  "Excalidraw": "LiPaintbrush",
+  "notes": "TiNote",
+  "project": "RiCompassesLine",
+  "learning": "TiBook",
+  "project/Scanner3D": "Ti3dCubeSphere",
+  "_templates": "TiTemplate"
+}
